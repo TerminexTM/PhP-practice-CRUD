@@ -1,0 +1,15 @@
+body {
+   display:flex;
+   justify-content: center;
+}
+
+.formItems {
+   width: 30%;
+   justify-content: center;
+   margin-top: 15px;
+   border: 1px solid black;
+   border-radius: 15px;
+}
+.formItems > form {
+   margin: 5px;
+}
